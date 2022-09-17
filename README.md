@@ -1,13 +1,15 @@
-# SQL-Server--Banco-de-Dados
+# SQL-Server
 
-Management Studio
-
+## Management Studio  
+```sql
 SELECT * FROM [dbo].[MSreplication_options]
 Executar
 Consulta
 SELECT * FROM [dbo].[spt_fallback_db]
 Forçar um erro, editando o nome na tabela
 SELECT * FROM [dbo].[MSreplication_optionsXXXX]
+```
+
 Executar
 
 
